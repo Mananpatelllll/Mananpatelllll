@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋 I'm Manan Patel
 
-<!--
-**Mananpatelllll/Mananpatelllll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Kentucky State University  
+💻 Passionate about Programming & Cybersecurity  
+🌎 Originally from India  
 
-Here are some ideas to get you started:
+--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 About Me
+
+- 🔭 Currently studying Computer Science
+- 💡 Interested in Cybersecurity & Software Development
+- 🧠 Learning C++ and Data Structures
+- 🎯 Goal: Become a Cybersecurity Specialist
+
+--
+
+# 🛠️ Skills
+
+- C++
+- Git & GitHub
+- Basic Networking
+- Problem Solving
+
+--
+
+# 📚 Current Projects
+
+- Sorting Algorithms (Bubble, Selection, Quick, Shell)
+- Inventory Management System (C++)
+- Robotics Sensor Presentation
+
+--
+
+# 📫 Connect With Me
+- Email: manan.patel@kysu.edu
